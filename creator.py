@@ -1,0 +1,5 @@
+
+def charCreator():
+    pass
+
+charCreator()
